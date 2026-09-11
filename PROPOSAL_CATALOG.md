@@ -39,7 +39,7 @@
 |---|---|---|
 | `badge` | Estrategia & Operaciones IT | IT Strategy & Operations |
 | `title` (H1) | IT Service Delivery & Governance Leader | IT Service Delivery & Governance Leader |
-| `subtitle` | Liderando la transformación digital, la excelencia operativa e implementación de marcos de gobierno ITIL/COBIT para maximizar el valor de negocio. | Leading digital transformation, operational excellence, and the implementation of ITIL/COBIT governance frameworks to maximize business value. |
+| `subtitle` | Gobierno TIC y gestión de servicios críticos bajo marcos ITIL/COBIT, protegiendo SLAs, presupuesto y valor de negocio en entornos regulados. | IT governance and management of critical services under ITIL/COBIT frameworks, protecting SLAs, budget, and business value across regulated environments.|
 
 ---
 
