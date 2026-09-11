@@ -90,6 +90,7 @@ Los **títulos de las 4 tarjetas y sus iconos son fijos** (no están en el siste
 |---|---|---|
 | Descripción (`card6_desc`) | Liderazgo de equipos multidisciplinares en entornos híbridos y cloud, fomentando culturas DevOps, agilidad y optimización de costes (FinOps). | Leadership of multidisciplinary teams in hybrid and cloud environments, fostering DevOps cultures, agility, and cost optimization (FinOps). |
 | Tags (fijas, no traducidas) | `Agile / Scrum` · `Cloud Operations` · `DevOps Culture` · `FinOps` | `Agile / Scrum` · `Cloud Operations` · `DevOps Culture` · `FinOps` |
+
 ---
 
 ## 4. Certificaciones Profesionales
@@ -99,9 +100,9 @@ El contenido de las tarjetas **no está traducido** (mismo texto en ambos idioma
 
 | Certificación | Entidad emisora | Obtenida | 
 |---|---|
+| PMP® - Project Management Professional | Project Management Institute | 03/2026 |
 | ITIL 4 Managing Professional | AXELOS Global Best Practice | 12/2025 |
 | COBIT 2019 Foundation | ISACA | - |
-| PMP® - Project Management Professional | Project Management Institute | 03/2026 |
 | CRISC - Risk and Information Systems Control | ISACA | - |
 
 ---
