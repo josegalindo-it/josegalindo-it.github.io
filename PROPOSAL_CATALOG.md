@@ -54,14 +54,14 @@ Los **títulos de las 4 tarjetas y sus iconos son fijos** (no están en el siste
 | Campo | ES | EN |
 |---|---|---|
 | Descripción (`card1_desc`) | Diseño y aplicación de marcos de gobierno TI (COBIT, ISO 20000, ISO 21500, ISO 31000) que alinean la ejecución tecnológica con los objetivos de negocio, controlando presupuesto y riesgo en portfolios superiores a 200.000 horas de delivery. | Design and application of IT governance frameworks (COBIT, ISO 20000, ISO 21500, ISO 31000) aligning technology execution with business objectives, controlling budget and risk across portfolios exceeding 200K delivery hours. |
-| Tags | `COBIT` · `ISO 21500` · Reporting a Comités (SteerCo) (`tag_repor`) · Gestión de Riesgos (ISO 31000) (`tag_risk`) · Audit (`tag_audit`) · Gobierno de Portfolio (PMO) (`tag_gover`) | `COBIT` · `ISO 21500` · SteerCo Reporting (`tag_repor`) · Risk Management (ISO 31000) (`tag_risk`) · IT Audit (`tag_audit`) · Portfolio Governance (`tag_gover`) |
+| Tags | `COBIT` · `ISO 21500` · Reporting a Comités (SteerCo) (`tag_repor`) · Gestión de Riesgos (ISO 31000) (`tag_risk`) · Gobierno de Portfolio (PMO) (`tag_gover`) | `COBIT` · `ISO 21500` · SteerCo Reporting (`tag_repor`) · Risk Management (ISO 31000) (`tag_risk`) · Portfolio Governance (`tag_gover`) |
 
 ### C2 — 📊 Service Delivery Excellence
 
 | Campo | ES | EN |
 |---|---|---|
 | Descripción (`card2_desc`) | Gestión del ciclo de vida del servicio TI bajo ITIL® 4: definición y supervisión de SLAs, gestión de incidencias y problemas, y mejora continua (CSI) en cuentas multiproveedor de hasta 132.000 horas al año. | IT service lifecycle management under ITIL® 4: defining and monitoring SLAs, incident and problem management, and continuous service improvement (CSI) across multi-vendor accounts of up to 132K hours a year. |
-| Tags (fijas, no traducidas) | `ITIL® v4` · ANS / KPI (`tag_sla`) · Gestión de Incidencias y Problemas (`tag_inc`) · `CSI` | `ITIL® v4` · SLA / KPI (`tag_sla`) · Incident & Problem Mgmt (`tag_inc`) · `CSI` |
+| Tags (fijas, no traducidas) | `ITIL® v4` · ANS / KPI (`tag_sla`) · Gestión de Incidencias y Problemas (`tag_inc`) · Mejora Continua del Servicio (CSI) (`tag_csi`) | `ITIL® v4` · SLA / KPI (`tag_sla`) · Incident & Problem Mgmt (`tag_inc`) · CSI (`tag_csi`) |
 
 ### C3 — 🤝 Vendor & Stakeholder Management
 
