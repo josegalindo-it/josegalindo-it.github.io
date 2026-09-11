@@ -53,30 +53,43 @@ Los **títulos de las 4 tarjetas y sus iconos son fijos** (no están en el siste
 
 | Campo | ES | EN |
 |---|---|---|
-| Descripción (`card1_desc`) | Diseño e implementación de marcos de gobierno alineados con COBIT, ISO 27001 e ISO 20000 para garantizar la alineación estratégica y gestión del riesgo. | Design and implementation of governance frameworks aligned with COBIT, ISO 27001, and ISO 20000 to ensure strategic alignment and risk management. |
-| Tags | `COBIT` · `ISO 27001` · Gestión de Riesgos (`tag_risk`) · Auditoría IT (`tag_audit`) | `COBIT` · `ISO 27001` · Risk Management (`tag_risk`) · IT Audit (`tag_audit`) |
+| Descripción (`card1_desc`) | Diseño y aplicación de marcos de gobierno TI (COBIT, ISO 20000, ISO 21500, ISO 31000) que alinean la ejecución tecnológica con los objetivos de negocio, controlando presupuesto y riesgo en portfolios superiores a 200.000 horas de delivery. | Design and application of IT governance frameworks (COBIT, ISO 20000, ISO 21500, ISO 31000) aligning technology execution with business objectives, controlling budget and risk across portfolios exceeding 200K delivery hours. |
+| Tags | `COBIT` · `ISO 21500` · Reporting a Comités (SteerCo) (`tag_repor`) · Gestión de Riesgos (ISO 31000) (`tag_risk`) · Audit (`tag_audit`) · Gobierno de Portfolio (PMO) (`tag_gover`) | `COBIT` · `ISO 21500` · SteerCo Reporting (`tag_repor`) · Risk Management (ISO 31000) (`tag_risk`) · IT Audit (`tag_audit`) · Portfolio Governance (`tag_gover`) |
 
 ### C2 — 📊 Service Delivery Excellence
 
 | Campo | ES | EN |
 |---|---|---|
-| Descripción (`card2_desc`) | Gestión del ciclo de vida del servicio TI basado en ITIL v4. Definición y supervisión de SLAs/OLAs, gestión de incidentes críticos y mejora continua (CSI). | IT service lifecycle management based on ITIL v4. Definition and monitoring of SLAs/OLAs, critical incident management, and continuous service improvement (CSI). |
-| Tags (fijas, no traducidas) | `ITIL v4` · `SLAs / KPIs` · `Incident & Problem Mgmt` · `CSI` | `ITIL v4` · `SLAs / KPIs` · `Incident & Problem Mgmt` · `CSI` |
+| Descripción (`card2_desc`) | Gestión del ciclo de vida del servicio TI bajo ITIL® 4: definición y supervisión de SLAs, gestión de incidencias y problemas, y mejora continua (CSI) en cuentas multiproveedor de hasta 132.000 horas al año. | IT service lifecycle management under ITIL® 4: defining and monitoring SLAs, incident and problem management, and continuous service improvement (CSI) across multi-vendor accounts of up to 132K hours a year. |
+| Tags (fijas, no traducidas) | `ITIL® v4` · ANS / KPI (`tag_sla`) · Gestión de Incidencias y Problemas (`tag_inc`) · `CSI` | `ITIL® v4` · SLA / KPI (`tag_sla`) · Incident & Problem Mgmt (`tag_inc`) · `CSI` |
 
 ### C3 — 🤝 Vendor & Stakeholder Management
 
 | Campo | ES | EN |
 |---|---|---|
-| Descripción (`card3_desc`) | Gestión estratégica de proveedores tecnológicos (RFPs, negociación de contratos, evaluación de rendimiento) y alineación con líderes del negocio. | Strategic management of technology vendors (RFPs, contract negotiation, performance evaluation) and alignment with business leaders. |
-| Tags | `Vendor Mgmt` · Negociación (`tag_neg`) · Presupuesto IT (`tag_budget`) · `Stakeholders` | `Vendor Mgmt` · Negotiation (`tag_neg`) · IT Budget (`tag_budget`) · `Stakeholders` |
+| Descripción (`card3_desc`) | Gestión estratégica de proveedores tecnológicos (RFPs, negociación de tarifas y contratos, evaluación de rendimiento) y alineación con líderes del negocio, en entornos multiproveedor con P&L de hasta 6,5M€. | Strategic management of technology vendors (RFPs, rate and contract negotiation, performance evaluation) and alignment with business leaders across multi-vendor environments with P&L accountability up to €6.5M. |
+| Tags | Gestión de Proveedores/Multiproveedor (`tag_vendor`)· Negociación de Tarifas y Contratos(`tag_neg`) · Presupuesto IT (P&L) (`tag_budget`) · `Stakeholders` | Vendor/Multi-vendor Management (`tag_vendor`) · Rate & Contract Negotiation (`tag_neg`) · IT Budget (P&L) (`tag_budget`) · `Stakeholders` |
 
-### C4 — 🚀 Digital Transformation & DevOps
+### C4 — 🚀 Data Platform & Regulatory Delivery
 
 | Campo | ES | EN |
 |---|---|---|
-| Descripción (`card4_desc`) | Liderazgo de equipos multidisciplinares en entornos híbridos y cloud, fomentando culturas DevOps, agilidad y optimización de costes (FinOps). | Leadership of multidisciplinary teams in hybrid and cloud environments, fostering DevOps cultures, agility, and cost optimization (FinOps). |
-| Tags (fijas, no traducidas) | `Agile / Scrum` · `Cloud Operations` · `DevOps Culture` · `FinOps` | `Agile / Scrum` · `Cloud Operations` · `DevOps Culture` · `FinOps` |
+| Descripción (`card4_desc`) | Delivery técnico de plataformas de datos (Data Warehouse, Big Data) y programas regulatorios (BCBS 239, IAS 39), gobernando SDLC, Release Management y control de calidad en modelos multifactoría. | Technical delivery of data platforms (Data Warehouse, Big Data) and regulatory programs (BCBS 239, IAS 39), governing SDLC, Release Management and quality control across multi-factory models |
+| Tags | Plataforma Informacional (`tag_data`) · Gestión de Entregables y Releases (`tag_sdlc`) · Reporting Regulatorio (BCBS 239) (`tag_rereg`) · Delivery Multiproveedor (`tag_delm`) | Data Warehousing / Big Data (`tag_data`) · SDLC & Release Management (`tag_sdlc`) · Regulatory Reporting (BCBS 239) (`tag_rereg`) · Multi-vendor Delivery (`tag_delm`) |
 
+### C5 — 🚀 Digital Transformation & DevOps
+
+| Campo | ES | EN |
+|---|---|---|
+| Descripción (`card5_desc`) | Coordinación de metodologías ágiles e híbridas (Scrum, Kanban, Lean IT) y adopción de prácticas DevOps/CI-CD a nivel de gobierno del delivery, reduciendo hasta un 65% la tasa de fallos en cambios (CFR). | Coordination of agile and hybrid methodologies (Scrum, Kanban, Lean IT) and governance-level adoption of DevOps/CI-CD practices, cutting change failure rate (CFR) by up to 65%. |
+| Tags (fijas, no traducidas) | `Agile / Scrum` · `Lean IT` · `DevOps / CI-CD` · Gestión de Cambios TI (`tag_chm`) | `Agile / Scrum` · `Lean IT` · `DevOps / CI-CD` · IT Change Management (`tag_chm`) |
+
+### C6 — 🚀 Digital Transformation & DevOps
+
+| Campo | ES | EN |
+|---|---|---|
+| Descripción (`card6_desc`) | Liderazgo de equipos multidisciplinares en entornos híbridos y cloud, fomentando culturas DevOps, agilidad y optimización de costes (FinOps). | Leadership of multidisciplinary teams in hybrid and cloud environments, fostering DevOps cultures, agility, and cost optimization (FinOps). |
+| Tags (fijas, no traducidas) | `Agile / Scrum` · `Cloud Operations` · `DevOps Culture` · `FinOps` | `Agile / Scrum` · `Cloud Operations` · `DevOps Culture` · `FinOps` |
 ---
 
 ## 4. Certificaciones Profesionales
@@ -84,12 +97,12 @@ Los **títulos de las 4 tarjetas y sus iconos son fijos** (no están en el siste
 Título de sección (`section_certs`): ES *"Certificaciones Profesionales"* / EN *"Professional Certifications"*.
 El contenido de las tarjetas **no está traducido** (mismo texto en ambos idiomas):
 
-| Certificación | Entidad emisora |
+| Certificación | Entidad emisora | Obtenida | 
 |---|---|
-| ITIL 4 Managing Professional | AXELOS Global Best Practice |
-| COBIT 2019 Foundation | ISACA |
-| PMP® - Project Management Professional | Project Management Institute |
-| CRISC - Risk and Information Systems Control | ISACA |
+| ITIL 4 Managing Professional | AXELOS Global Best Practice | 12/2025 |
+| COBIT 2019 Foundation | ISACA | - |
+| PMP® - Project Management Professional | Project Management Institute | 03/2026 |
+| CRISC - Risk and Information Systems Control | ISACA | - |
 
 ---
 
@@ -123,7 +136,7 @@ Para quien mantenga el contenido (o migre a WordPress/otro CMS), conviene conser
 
 | Fecha | Cambio |
 |---|---|
-| 2026-09-11 | Primera extracción completa desde `index.html` (versión con 4 pilares de competencia, 4 certificaciones, i18n ES/EN). |
+| 2026-09-11 | Primera extracción completa desde `index.html` (versión con 6 pilares de competencia, 4 certificaciones, i18n ES/EN). |
 
 > Este fichero es una **referencia versionada**, no la fuente de renderizado de la web. Si el contenido de `index.html` cambia, actualiza primero el HTML y después sincroniza este documento (o a la inversa, si este documento pasa a ser la fuente editorial y el HTML se regenera desde aquí).
 ---
